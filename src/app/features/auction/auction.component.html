@@ -1,0 +1,83 @@
+<div class="container">
+
+  <div class="text-center logo-container">
+    <img src="assets/images/fcc-logo.jpg" alt="player" class="player-img" width="150" />
+    <div class="divider"></div>
+    <img src="assets/images/mpl-logo.jpg" alt="player" class="player-img" width="150" />
+  </div>
+
+  <h2>🏏 Player Auction - Round {{ playerService.round() }}</h2>
+
+  <!-- Player Card -->
+  <app-player-card [player]="playerService.currentPlayer()"></app-player-card>
+
+  <!-- Counters -->
+  <div class="stats">
+    <span>Total: {{ playerService.totalCount() }}</span>
+    <span>Sold: {{ playerService.soldCount() }}</span>
+    <span>Unsold: {{ playerService.unsoldCount() }}</span>
+  </div>
+
+  <!-- Buttons -->
+  <div class="actions">
+    <button pButton label="Start Auction" (click)="playerService.getRandomPlayer()"></button>
+
+    <button pButton label="SOLD" severity="success" (click)="confirmSold()"></button>
+
+    <button pButton label="UNSOLD" severity="danger" (click)="confirmUnsold()"></button>
+
+    <button pButton label="Start Round 2" [disabled]="!playerService.canStartRound2()"
+      (click)="playerService.startRound2()"></button>
+  </div>
+
+  <!-- TABLES -->
+  <div class="tables">
+
+    <h3>Sold Players</h3>
+    <p-table [value]="playerService.soldPlayers()">
+      <ng-template pTemplate="header">
+        <tr>
+          <th>Photo</th>
+          <th>Name</th>
+          <th>Team</th>
+          <th>Role</th>
+          <th>Stump ID</th>
+        </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-player>
+        <tr>
+          <td><img [src]="player.photo" width="50"></td>
+          <td>{{ player.name }}</td>
+          <td>{{ player.team }}</td>
+          <td>{{ player.role }}</td>
+          <td>{{ player.stumpId }}</td>
+        </tr>
+      </ng-template>
+    </p-table>
+
+    <h3>Unsold Players</h3>
+    <p-table [value]="playerService.unsoldPlayers()">
+      <ng-template pTemplate="header">
+        <tr>
+          <th>Photo</th>
+          <th>Name</th>
+          <th>Team</th>
+          <th>Role</th>
+          <th>Stump ID</th>
+        </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-player>
+        <tr>
+          <td><img [src]="player.photo" width="50"></td>
+          <td>{{ player.name }}</td>
+          <td>{{ player.team }}</td>
+          <td>{{ player.role }}</td>
+          <td>{{ player.stumpId }}</td>
+        </tr>
+      </ng-template>
+    </p-table>
+
+  </div>
+</div>
+
+<p-confirmDialog></p-confirmDialog>

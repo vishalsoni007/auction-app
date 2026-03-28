@@ -1,0 +1,131 @@
+@import "primeicons/primeicons.css";
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f6fa;
+  color: #1e1e2f;
+}
+
+// auction component
+.container {
+  padding: 20px;
+}
+
+
+
+//player component
+.card {
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin: 20px;
+  border-radius: 12px;
+  background: #fff;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+/* Image Section */
+.image-section {
+  width: 320px;
+  height: 320px;
+  flex-shrink: 0;
+}
+
+.image-section img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* 🔥 keeps image consistent */
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Details */
+.details-section {
+  flex: 1;
+}
+
+.details-section h3 {
+  margin: 0 0 10px;
+  font-weight: 700;
+}
+
+.details-section p {
+  margin: 4px 0;
+}
+
+/* Animation */
+// .fade {
+//   animation: fadeIn 0.4s ease-in-out;
+// }
+
+// @keyframes fadeIn {
+//   from {
+//     opacity: 0;
+//     transform: translateY(10px);
+//   }
+
+//   to {
+//     opacity: 1;
+//     transform: translateY(0);
+//   }
+// }
+
+
+li.p-autocomplete-option,
+div.p-cascadeselect-option-content,
+li.p-listbox-option,
+li.p-multiselect-option,
+li.p-select-option,
+li.p-listbox-option,
+div.p-tree-node-content,
+li.p-datatable-filter-constraint,
+.p-datatable .p-datatable-tbody>tr,
+.p-treetable .p-treetable-tbody>tr,
+div.p-menu-item-content,
+div.p-tieredmenu-item-content,
+div.p-contextmenu-item-content,
+div.p-menubar-item-content,
+div.p-megamenu-item-content,
+div.p-panelmenu-header-content,
+div.p-panelmenu-item-content,
+th.p-datatable-header-cell,
+th.p-treetable-header-cell,
+thead.p-datatable-thead>tr>th,
+.p-treetable thead.p-treetable-thead>tr>th {
+  transition: none;
+  background: darkslategrey;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.divider {
+  width: 1px;
+  height: 80px;
+  background-color: lightgray;
+}
+
+.fz-22 {
+  font-size: 22px;
+}
+
+.player-fz-color {
+  color: orange;
+  font-size: 40px;
+}
+
+.player-detail-fz-color {
+  color: darkslategrey;
+}

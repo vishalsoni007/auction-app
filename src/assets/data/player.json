@@ -1,0 +1,1412 @@
+[
+  {
+    "id": 1,
+    "name": "AASHISH GAUD",
+    "team": "DOMINATORS",
+    "stumpId": "AASH2641",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ABHAY JAISWAR",
+    "team": "KCA XI",
+    "stumpId": "BHAY1865",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "ABHISHEK MALVE ",
+    "team": "TIGER 11",
+    "stumpId": "ASHH8176",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/3.webp"
+  },
+  {
+    "id": 4,
+    "name": "ABHISHEK YADAV ",
+    "team": "BHANDUP GIANTS",
+    "stumpId": "HQWD4767",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "AJAY GAIKWAD ",
+    "team": "STRIKERS",
+    "stumpId": "AJAY2926",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "AJAY SINGH",
+    "team": "VIHAN XI",
+    "stumpId": "JAYB8412",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "AJAY YADAV ",
+    "team": "VIHAN XI",
+    "stumpId": "JAYY6416",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "AKASH GUPTA",
+    "team": "STRIKERS",
+    "stumpId": "SHGU1218",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/8.png"
+  },
+  {
+    "id": 9,
+    "name": "AKSHAY BANDARKAR ",
+    "team": "MRS",
+    "stumpId": "AK787036",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "AKSHAY GAWAND",
+    "team": "AAI EKVIRA",
+    "stumpId": "KSHA6774",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "ALPESH BANDARKAR ",
+    "team": "MRS",
+    "stumpId": "ALPE3257",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "AMAN MALVE ",
+    "team": "TIGER 11",
+    "stumpId": "NFRC2470",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "AMIT GHAG",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "DSYQ1843",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "AMIT PRAJAPATI",
+    "team": "BHANDUP GIANTS",
+    "stumpId": "ITDF2697",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "ANIKET KORI ",
+    "team": "DOMINATORS",
+    "stumpId": "NIKE1205",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "ANIKET PAL ",
+    "team": "AP XI",
+    "stumpId": "IKET1870",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/16.webp"
+  },
+  {
+    "id": 17,
+    "name": "ANIKET SANKPAL",
+    "team": "JAY MAHAKAL",
+    "stumpId": "NIKE8498",
+    "role": "Bowling All-rounder",
+    "batting": "Left Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/17.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "ANIKET WAREKAR",
+    "team": "NB PACKERS",
+    "stumpId": "KETW5068",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "ANIL YADAV",
+    "team": "RISING WARRIORS",
+    "stumpId": "NILY8794",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "ANUJ MISHRA",
+    "team": "BHANDUP WARRIORS",
+    "stumpId": "ANUJ4817",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "ARUN KADAM ",
+    "team": "RISING WARRIORS",
+    "stumpId": "UNJN5621",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "ARYAN GUPTA",
+    "team": "RISING WARRIORS",
+    "stumpId": "#YANG8773",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/22.jpeg"
+  },
+  {
+    "id": 23,
+    "name": "ASHIK SALIAN",
+    "team": "TDD",
+    "stumpId": "SHIK8266",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "ASHISH CHAUHAN",
+    "team": "RYDER PACKERS",
+    "stumpId": "ISHC9187",
+    "role": "Batting All-rounder",
+    "batting": "Left Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/24.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "ASHISH GUPTA",
+    "team": "MRS",
+    "stumpId": "ASHI6045",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "ASHISH RANE",
+    "team": "AAI EKVIRA",
+    "stumpId": "SHIS3543",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "ASHISH SINGH",
+    "team": "KCA XI",
+    "stumpId": "SHIS5912",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "ASHUTOSH SHINDE",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "ASHU4334",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/28.webp"
+  },
+  {
+    "id": 29,
+    "name": "ATISH VARUN",
+    "team": "RISING WARRIORS",
+    "stumpId": "AATI6791",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/29.png"
+  },
+  {
+    "id": 30,
+    "name": "ATUL PANDEY ",
+    "team": "AP XI",
+    "stumpId": "TULP1692",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/30.jpg"
+  },
+  {
+    "id": 31,
+    "name": "AVINASH YADAV ",
+    "team": "STRIKERS",
+    "stumpId": "AVIN7748",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/31.jpg"
+  },
+  {
+    "id": 32,
+    "name": "BALKRISHNA UTLA",
+    "team": "STRIKERS",
+    "stumpId": "BALK1822",
+    "role": "Batter",
+    "batting": "Left Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/32.jpg"
+  },
+  {
+    "id": 33,
+    "name": "BALMUKUND PATWA",
+    "team": "RISING WARRIORS",
+    "stumpId": "BALM2804",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/33.jpg"
+  },
+  {
+    "id": 34,
+    "name": "BRIJESH GUPTA",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "BRIJ6359",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/34.jpg"
+  },
+  {
+    "id": 35,
+    "name": "DEEPAK MHATRE ",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "DIPS5794",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/35.jpeg"
+  },
+  {
+    "id": 36,
+    "name": "DEV WAGH ",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "DEVW3498",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/36.jpg"
+  },
+  {
+    "id": 37,
+    "name": "DEVA LENDEY",
+    "team": "RYDER PACKERS",
+    "stumpId": "DEVA4067",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/37.jpeg"
+  },
+  {
+    "id": 38,
+    "name": "DINESH MORE",
+    "team": "NB PACKERS",
+    "stumpId": "ESHM5312",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/38.jpg"
+  },
+  {
+    "id": 39,
+    "name": "DIPESH BHANDE ",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "IPES8087",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/39.jpg"
+  },
+  {
+    "id": 40,
+    "name": "GANESH MALI",
+    "team": "RISING WARRIORS",
+    "stumpId": "SHEY8001",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/40.jpg"
+  },
+  {
+    "id": 41,
+    "name": "GANESH MANCHEKAR ",
+    "team": "AAI EKVIRA",
+    "stumpId": "ESHM6783",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/41.jpg"
+  },
+  {
+    "id": 42,
+    "name": "GANESH MANE",
+    "team": "TDD",
+    "stumpId": "ESHM5734",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/42.jpg"
+  },
+  {
+    "id": 43,
+    "name": "GAURAV JAISWAL ",
+    "team": "RISING WARRIORS",
+    "stumpId": "URAV9824",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/43.jpg"
+  },
+  {
+    "id": 44,
+    "name": "HEMANT PADYAL",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "HEMA6199",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/44.jpg"
+  },
+  {
+    "id": 45,
+    "name": "HITESH PATIYAL",
+    "team": "RISING WARRIORS",
+    "stumpId": "HITE6024",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/45.jpg"
+  },
+  {
+    "id": 46,
+    "name": "HITESH SURVE",
+    "team": "NB PACKERS",
+    "stumpId": "TESH4081",
+    "role": "Batter",
+    "batting": "Left Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/46.png"
+  },
+  {
+    "id": 47,
+    "name": "JAI SHAHI",
+    "team": "DRS",
+    "stumpId": "AISH8811",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/47.jpg"
+  },
+  {
+    "id": 48,
+    "name": "KALPESH KOLGE",
+    "team": "TIGER 11",
+    "stumpId": "À¤•À¤²À¤ªÀ¥‡3713",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/48.jpg"
+  },
+  {
+    "id": 49,
+    "name": "KARTIK SINGH ",
+    "team": "JAY MAHAKAL",
+    "stumpId": "TIKK3690",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/49.jpg"
+  },
+  {
+    "id": 50,
+    "name": "KISHOR BODHE",
+    "team": "TDD",
+    "stumpId": "KBMC5985",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/50.jpg"
+  },
+  {
+    "id": 51,
+    "name": "LAXMAN NARAM",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "LAXM6110",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/51.jpg"
+  },
+  {
+    "id": 52,
+    "name": "MAHESH SHETTY",
+    "team": "PRAVEEN XI",
+    "stumpId": "AHES5090",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/52.jpeg"
+  },
+  {
+    "id": 53,
+    "name": "MANGESH TIWARI",
+    "team": "MARATHA ROYAL CLUB",
+    "stumpId": "MAG8787",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/53.jpeg"
+  },
+  {
+    "id": 54,
+    "name": "MANISH YADAV",
+    "team": "RISING WARRIORS",
+    "stumpId": "ISHY3487",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/54.jpg"
+  },
+  {
+    "id": 55,
+    "name": "MANTHAN MANE",
+    "team": "AP XI",
+    "stumpId": "ANJK6462",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/55.jpg"
+  },
+  {
+    "id": 56,
+    "name": "MITHUN  ANBHAVANE",
+    "team": "AAI EKVIRA",
+    "stumpId": "ITHU8128",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/56.jpg"
+  },
+  {
+    "id": 57,
+    "name": "MOHAN RATHOD",
+    "team": "NB PACKERS",
+    "stumpId": "HANR2563",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/57.jpg"
+  },
+  {
+    "id": 58,
+    "name": "MOHAN RAWAT ",
+    "team": "DOMINATORS",
+    "stumpId": "ANRA6097",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/58.jpg"
+  },
+  {
+    "id": 59,
+    "name": "MUKESH PRAJAPATI ",
+    "team": "DOMINATORS",
+    "stumpId": "UKES2872",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/59.jpg"
+  },
+  {
+    "id": 60,
+    "name": "NAGENDRA YADAV ",
+    "team": "RISING WARRIORS",
+    "stumpId": "AGEN9906",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/60.jpg"
+  },
+  {
+    "id": 61,
+    "name": "NAYAB SHAH",
+    "team": "KCA XI",
+    "stumpId": "NAYA5534",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/61.png"
+  },
+  {
+    "id": 62,
+    "name": "NIKESH YADAV ",
+    "team": "VIHAN XI",
+    "stumpId": "IKES5687",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/62.jpg"
+  },
+  {
+    "id": 63,
+    "name": "NIKHIL KADAM",
+    "team": "JAY MAHAKAL",
+    "stumpId": "IKHI3461",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/63.jpg"
+  },
+  {
+    "id": 64,
+    "name": "NIKHIL MISHRA ",
+    "team": "RISING WARRIORS",
+    "stumpId": "NICK4967",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/64.jpg"
+  },
+  {
+    "id": 65,
+    "name": "NIKHIL PITALEKAR ",
+    "team": "JAY MAHAKAL",
+    "stumpId": "HILP9500",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/65.jpg"
+  },
+  {
+    "id": 66,
+    "name": "NILESH BHOSALE ",
+    "team": "NB PACKERS",
+    "stumpId": "ILES7671",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/66.jpg"
+  },
+  {
+    "id": 67,
+    "name": "NISHAD GHADI ",
+    "team": "SAI 11 BHANDUP",
+    "stumpId": "NISH2362",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/67.jpg"
+  },
+  {
+    "id": 68,
+    "name": "NITIN NAWAR",
+    "team": "NB PACKERS",
+    "stumpId": "ITIN9066",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/68.jpg"
+  },
+  {
+    "id": 69,
+    "name": "OMKAR PATIL ",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "SWYN7988",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/69.jpg"
+  },
+  {
+    "id": 70,
+    "name": "PANKAJ JOSHI",
+    "team": "RISING WARRIORS",
+    "stumpId": "NKAJ7870",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/70.jpg"
+  },
+  {
+    "id": 71,
+    "name": "PRADEEP SINGH ",
+    "team": "NB PACKERS",
+    "stumpId": "RADE1413",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/71.jpg"
+  },
+  {
+    "id": 72,
+    "name": "PRADEEP YADAV",
+    "team": "VIHAN XI",
+    "stumpId": "RADE6356",
+    "role": "Bowling All-rounder",
+    "batting": "Left Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/72.jpg"
+  },
+  {
+    "id": 73,
+    "name": "PRADIP MANJALKAR",
+    "team": "GLADIATORS",
+    "stumpId": "PRAD8320",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/73.jpeg"
+  },
+  {
+    "id": 74,
+    "name": "PRASHANT PANICKER",
+    "team": "TIGER 11",
+    "stumpId": "ANTZ4364",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/74.jpg"
+  },
+  {
+    "id": 75,
+    "name": "RAHUL CHAVAN",
+    "team": "TIGER 11",
+    "stumpId": "HULC2773",
+    "role": "Bowling All-rounder",
+    "batting": "Left Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/75.jpeg"
+  },
+  {
+    "id": 76,
+    "name": "RAHUL JOGDAND ",
+    "team": "TDD",
+    "stumpId": "HULJ9401",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/76.webp"
+  },
+  {
+    "id": 77,
+    "name": "RAHUL MANCHEKAR ",
+    "team": "AAI EKVIRA",
+    "stumpId": "ULTF9887",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/77.jpg"
+  },
+  {
+    "id": 78,
+    "name": "RAHUL YADAV",
+    "team": "NAHAR XI",
+    "stumpId": "HULS2376",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/78.jpg"
+  },
+  {
+    "id": 79,
+    "name": "RAJAN ",
+    "team": "STRIKERS",
+    "stumpId": "RAJD4583",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/79.jpg"
+  },
+  {
+    "id": 80,
+    "name": "RAJESH JOSHI ",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "SHBU8675",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/80.jpg"
+  },
+  {
+    "id": 81,
+    "name": "RAJESH PRAJAPATI ",
+    "team": "DOMINATORS",
+    "stumpId": "ESHP5102",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/81.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Ram Yadav",
+    "team": "BHANDUP GIANTS",
+    "stumpId": "rams6921",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/82.jpg"
+  },
+  {
+    "id": 83,
+    "name": "RAVI CHOURASIA ",
+    "team": "NAHAR XI",
+    "stumpId": "VIGJ2855",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/83.jpg"
+  },
+  {
+    "id": 84,
+    "name": "RAVI KANOJIYA",
+    "team": "DOMINATORS",
+    "stumpId": "IKAN8687",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/84.jpeg"
+  },
+  {
+    "id": 85,
+    "name": "RAVINDRA KADAM",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "NGBE6645",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/85.jpg"
+  },
+  {
+    "id": 86,
+    "name": "ROHAN SHINDE ",
+    "team": "GAME SWINGERS",
+    "stumpId": "NSHI6037",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/86.jpg"
+  },
+  {
+    "id": 87,
+    "name": "ROHIT SHARMA ",
+    "team": "JAY MAHAKAL",
+    "stumpId": "HITS8037",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/87.jpg"
+  },
+  {
+    "id": 88,
+    "name": "RUPESH HODE ",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "UPES5702",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/88.jpg"
+  },
+  {
+    "id": 89,
+    "name": "SACHIN LAD ",
+    "team": "NB PACKERS",
+    "stumpId": "HINL1935",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/89.jpg"
+  },
+  {
+    "id": 90,
+    "name": "SAGAR BHANDARKAR ",
+    "team": "JAY MAHAKAL",
+    "stumpId": "GARU3948",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/90.jpg"
+  },
+  {
+    "id": 91,
+    "name": "SAMEER KHAN",
+    "team": "TIGER 11",
+    "stumpId": "EERK2129",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/91.jpg"
+  },
+  {
+    "id": 92,
+    "name": "SAMEER SASANE",
+    "team": "MRS",
+    "stumpId": "MEER5959",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/92.jpg"
+  },
+  {
+    "id": 93,
+    "name": "SAMEER TELI ",
+    "team": "SAI 11 BHANDUP",
+    "stumpId": "AMEE2196",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/93.jpg"
+  },
+  {
+    "id": 94,
+    "name": "SANDEEP KALE ",
+    "team": "MRS",
+    "stumpId": "SRKA4572",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/94.jpg"
+  },
+  {
+    "id": 95,
+    "name": "SANDIP MAHADIK ",
+    "team": "AAI EKVIRA",
+    "stumpId": "NANI4620",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/95.jpg"
+  },
+  {
+    "id": 96,
+    "name": "SANJAY PATIL",
+    "team": "NB PACKERS",
+    "stumpId": "NJUP2696",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/96.jpg"
+  },
+  {
+    "id": 97,
+    "name": "SANJAY YADAV ",
+    "team": "RYDER PACKERS",
+    "stumpId": "JAYY2936",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/97.jpg"
+  },
+  {
+    "id": 98,
+    "name": "SANTOSH BHOSALE",
+    "team": "TDD",
+    "stumpId": "ANTO9432",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/98.jpg"
+  },
+  {
+    "id": 99,
+    "name": "SANTOSH VISHWAKARMA ",
+    "team": "TDD",
+    "stumpId": "TOSH9387",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/99.jpg"
+  },
+  {
+    "id": 100,
+    "name": "SATISH RAO ",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "TISH3506",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/100.jpeg"
+  },
+  {
+    "id": 101,
+    "name": "SAURABH GURAV ",
+    "team": "SAI 11 BHANDUP",
+    "stumpId": "SAUR6084",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/101.jpg"
+  },
+  {
+    "id": 102,
+    "name": "SHASHIKANT ARDE",
+    "team": "VIHAN XI",
+    "stumpId": "SHAS8331",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/102.jpg"
+  },
+  {
+    "id": 103,
+    "name": "SHIVRAJ YADAV ",
+    "team": "TIGER 11",
+    "stumpId": "HIVR3984",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/103.jpg"
+  },
+  {
+    "id": 104,
+    "name": "SHUBHAM KUMBHAR ",
+    "team": "GLADIATORS",
+    "stumpId": "SHUB3624",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/104.jpg"
+  },
+  {
+    "id": 105,
+    "name": "SHYAM YADAV",
+    "team": "NAHAR XI",
+    "stumpId": "HYAM6182",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/105.jpg"
+  },
+  {
+    "id": 106,
+    "name": "SIDDHESH  MUNGEKAR",
+    "team": "SAI 11 BHANDUP",
+    "stumpId": "DDHE1624",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/106.jpg"
+  },
+  {
+    "id": 107,
+    "name": "SUDHIR HALDE ",
+    "team": "ASHTAVINAYAK",
+    "stumpId": "SUDH4536",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/107.jpg"
+  },
+  {
+    "id": 108,
+    "name": "SUJIT SAWANT",
+    "team": "NB PACKERS",
+    "stumpId": "SUJI3708",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/108.jpg"
+  },
+  {
+    "id": 109,
+    "name": "SUMIT KALE",
+    "team": "TDD",
+    "stumpId": "SUMI7900",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/109.jpg"
+  },
+  {
+    "id": 110,
+    "name": "SUNNY KADAM",
+    "team": "GLADIATORS",
+    "stumpId": "SUNN3835",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/110.JPG"
+  },
+  {
+    "id": 111,
+    "name": "SUNNY SAWANT ",
+    "team": "BHANDUP WARRIORS",
+    "stumpId": "SUNN8578",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/111.jpg"
+  },
+  {
+    "id": 112,
+    "name": "SURAJ ",
+    "team": "DOMINATORS",
+    "stumpId": "RAJY4154",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/112.jpg"
+  },
+  {
+    "id": 113,
+    "name": "SURAJ TIWARI ",
+    "team": "RISING WARRIORS",
+    "stumpId": "RAJT4183",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/113.jpg"
+  },
+  {
+    "id": 114,
+    "name": "SUYOG SALUNKHE",
+    "team": "SIDDHIVINAYAK",
+    "stumpId": "SUYO1392",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Left Arm Bowler",
+    "photo": "assets/players/114.jpg"
+  },
+  {
+    "id": 115,
+    "name": "SWAPNIL VILAS PATIL ",
+    "team": "JAY MAHAKAL",
+    "stumpId": "WAPN5355",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/115.webp"
+  },
+  {
+    "id": 116,
+    "name": "TANMAY SHINDE",
+    "team": "GAME SWINGERS",
+    "stumpId": "TANM1523",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/116.jpeg"
+  },
+  {
+    "id": 117,
+    "name": "TEJAS  BOBHATE ",
+    "team": "GLADIATORS",
+    "stumpId": "TUKA3674",
+    "role": "Bowler",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/117.webp"
+  },
+  {
+    "id": 118,
+    "name": "TEJAS PATIL",
+    "team": "NB PACKERS",
+    "stumpId": "TEJE9840",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/118.jpg"
+  },
+  {
+    "id": 119,
+    "name": "TEJAS PAWAR",
+    "team": "SAI 11 BHANDUP",
+    "stumpId": "EJAS3022",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/119.jpg"
+  },
+  {
+    "id": 120,
+    "name": "TEJAS TELI",
+    "team": "SAI 11 BHANDUP",
+    "stumpId": "JAST1688",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/120.JPG"
+  },
+  {
+    "id": 121,
+    "name": "TUSHAR DHOKE",
+    "team": "KCA XI",
+    "stumpId": "ARDH4883",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/121.jpg"
+  },
+  {
+    "id": 122,
+    "name": "TUSHAR KATE",
+    "team": "TDD",
+    "stumpId": "USHA5900",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/122.jpg"
+  },
+  {
+    "id": 123,
+    "name": "UMESH FULARI ",
+    "team": "DRS",
+    "stumpId": "ESHF1165",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/123.jpg"
+  },
+  {
+    "id": 124,
+    "name": "VAIBHAV MORE ",
+    "team": "TDD",
+    "stumpId": "IBHA1904",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/124.JPG"
+  },
+  {
+    "id": 125,
+    "name": "VAIBHAV SHINDE",
+    "team": "PRAVEEN XI",
+    "stumpId": "HAVC2597",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/125.jpg"
+  },
+  {
+    "id": 126,
+    "name": "VAIBHAV THOMBARE ",
+    "team": "GLADIATORS",
+    "stumpId": "VAIB9997",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/126.jpg"
+  },
+  {
+    "id": 127,
+    "name": "VAIBHAV WALUNJ ",
+    "team": "RYDER PACKERS",
+    "stumpId": "HAVW7565",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/127.jpg"
+  },
+  {
+    "id": 128,
+    "name": "VIJAY SHINDE",
+    "team": "NB PACKERS",
+    "stumpId": "AYSH3044",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/128.jpg"
+  },
+  {
+    "id": 129,
+    "name": "VIKAS HIWALE",
+    "team": "MRS",
+    "stumpId": "VIKA1002",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/129.webp"
+  },
+  {
+    "id": 130,
+    "name": "VIKAS MOHANTY",
+    "team": "TIGER 11",
+    "stumpId": "KASA1770",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/130.jpg"
+  },
+  {
+    "id": 131,
+    "name": "VIKRAM CHAUHAN",
+    "team": "RYDER PACKERS",
+    "stumpId": "CKYK3177",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/131.jpeg"
+  },
+  {
+    "id": 132,
+    "name": "VINAYKUMAR JAISWAR ",
+    "team": "VIHAN XI",
+    "stumpId": "NAYK1375",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/132.jpg"
+  },
+  {
+    "id": 133,
+    "name": "VISHAL JHA",
+    "team": "DOMINATORS",
+    "stumpId": "HALK1309",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/133.jpg"
+  },
+  {
+    "id": 134,
+    "name": "VISHAL SINGH",
+    "team": "BHANDUP GIANTS",
+    "stumpId": "HALV7062",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/134.jpeg"
+  },
+  {
+    "id": 135,
+    "name": "VIVEK CHAUDHARY ",
+    "team": "AP XI",
+    "stumpId": "VEKC8590",
+    "role": "Batting All-rounder",
+    "batting": "Left Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/135.png"
+  },
+  {
+    "id": 136,
+    "name": "VRUSHANK KADAM",
+    "team": "JAY MAHAKAL",
+    "stumpId": "VRUS2729",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/136.jpg"
+  },
+  {
+    "id": 137,
+    "name": "YASH GUDEKAR",
+    "team": "TDD",
+    "stumpId": "ASHG4511",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/137.jpg"
+  },
+  {
+    "id": 138,
+    "name": "YASH KADAM ",
+    "team": "PRAVEEN XI",
+    "stumpId": "ASHK1490",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/138.png"
+  },
+  {
+    "id": 139,
+    "name": "YEKKA PATIYAN",
+    "team": "AAI EKVIRA",
+    "stumpId": "ADIP8188",
+    "role": "Batting All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/139.jpg"
+  },
+  {
+    "id": 140,
+    "name": "YOGESH MANDAVKAR",
+    "team": "GLADIATORS",
+    "stumpId": "GESH1689",
+    "role": "Batter",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/140.jpg"
+  },
+  {
+    "id": 141,
+    "name": "ZISHAN KHAN",
+    "team": "TIGER 11",
+    "stumpId": "ZISH4394",
+    "role": "Bowling All-rounder",
+    "batting": "Right Hand Batter",
+    "bowling": "Right Arm Bow",
+    "photo": "assets/players/141.jpg"
+  }
+]

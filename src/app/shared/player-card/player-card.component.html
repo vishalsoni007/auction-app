@@ -1,0 +1,27 @@
+<div *ngIf="player; else noPlayer" class="card">
+
+  <div class="card-container">
+
+    <!-- Left: Image -->
+    <div class="image-section">
+      <img [src]="player.photo" alt="player">
+    </div>
+
+    <!-- Right: Details -->
+    <div class="details-section">
+      <h3 class="player-fz-color">{{ player.name }}</h3>
+      <p class="fz-22"><strong class="player-detail-fz-color">Team:</strong> {{ player.team }}</p>
+      <p class="fz-22"><strong class="player-detail-fz-color">Role:</strong> {{ player.role }}</p>
+      <p class="fz-22"><strong class="player-detail-fz-color">Batting:</strong> {{ player.batting }}</p>
+      <p class="fz-22"><strong class="player-detail-fz-color">Bowling:</strong> {{ player.bowling }}</p>
+      <p class="fz-22"><strong class="player-detail-fz-color">Stump Id:</strong> {{ player.stumpId }}</p>
+      <p class="fz-22"><strong class="player-detail-fz-color">Auction Id:</strong> {{ player.id }}</p>
+    </div>
+
+  </div>
+
+</div>
+
+<ng-template #noPlayer>
+  <p class="fz-22">No Player Selected</p>
+</ng-template>
