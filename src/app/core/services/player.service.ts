@@ -33,6 +33,7 @@ export class PlayerService {
 
     const index = Math.floor(Math.random() * players.length);
     this.currentPlayer.set(players[index]);
+    this.saveState();
   }
 
   markSold() {
@@ -41,6 +42,7 @@ export class PlayerService {
 
     this.soldPlayers.update(p => [...p, player]);
     this.removeFromRemaining(player.id);
+    this.saveState();
     setTimeout(() => {
       this.getRandomPlayer();
     }, 300);
@@ -52,6 +54,7 @@ export class PlayerService {
 
     this.unsoldPlayers.update(p => [...p, player]);
     this.removeFromRemaining(player.id);
+    this.saveState();
     setTimeout(() => {
       this.getRandomPlayer();
     }, 300);
@@ -71,6 +74,7 @@ export class PlayerService {
     this.remainingPlayers.set([...this.unsoldPlayers()]);
     this.unsoldPlayers.set([]);
     this.round.set(2);
+    this.saveState();
   }
 
 
@@ -80,5 +84,37 @@ export class PlayerService {
         this.allPlayers.set(data);
         this.remainingPlayers.set([...data]);
       });
+  }
+
+  saveState() {
+    const state = {
+      allPlayers: this.allPlayers(),
+      remainingPlayers: this.remainingPlayers(),
+      soldPlayers: this.soldPlayers(),
+      unsoldPlayers: this.unsoldPlayers(),
+      currentPlayer: this.currentPlayer(),
+      round: this.round()
+    };
+
+    localStorage.setItem('auction_state', JSON.stringify(state));
+  }
+
+  loadState() {
+    const data = localStorage.getItem('auction_state');
+    if (!data) return;
+
+    const state = JSON.parse(data);
+
+    this.allPlayers.set(state.allPlayers || []);
+    this.remainingPlayers.set(state.remainingPlayers || []);
+    this.soldPlayers.set(state.soldPlayers || []);
+    this.unsoldPlayers.set(state.unsoldPlayers || []);
+    this.currentPlayer.set(state.currentPlayer || null);
+    this.round.set(state.round || 1);
+  }
+
+  resetAuction() {
+    localStorage.removeItem('auction_state');
+    location.reload();
   }
 }

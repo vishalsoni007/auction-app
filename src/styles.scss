@@ -41,7 +41,7 @@ body {
 .image-section img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  // object-fit: cover;
   /* 🔥 keeps image consistent */
   border-radius: 10px;
   border: 1px solid #ccc;
@@ -128,4 +128,59 @@ thead.p-datatable-thead>tr>th,
 
 .player-detail-fz-color {
   color: darkslategrey;
+}
+
+
+.color-orange {
+  color: orange;
+}
+
+.total-count {
+  color: orange;
+  font-size: 20px;
+  border: 1px solid orange;
+  border-radius: 12px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.sold-count {
+  color: green;
+  font-size: 20px;
+  border: 1px solid green;
+  border-radius: 12px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.unsold-count {
+  color: indianred;
+  font-size: 20px;
+  border: 1px solid indianred;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.custom-btn {
+  margin-right: 20px !important;
+  padding: 10px 15px !important;
+
+  .p-button-label {
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+  }
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.left-actions,
+.right-actions {
+  display: flex;
+  gap: 10px;
 }

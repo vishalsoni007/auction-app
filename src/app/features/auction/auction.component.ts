@@ -17,13 +17,19 @@ import { ConfirmationService } from 'primeng/api';
   styleUrls: ['./auction.component.css'],
   providers: [ConfirmationService]
 })
+
 export class AuctionComponent implements OnInit {
   public clubLogo = '../assets/images/fcc-logo.jpg';
 
   constructor(public playerService: PlayerService, private confirmationService: ConfirmationService) { }
 
   ngOnInit() {
-    this.playerService.loadPlayersFromJson();
+    this.playerService.loadState();
+
+    // first time (no data)
+    if (!this.playerService.totalCount()) {
+      this.playerService.loadPlayersFromJson();
+    }
   }
 
   confirmSold() {
@@ -42,7 +48,7 @@ export class AuctionComponent implements OnInit {
       }
     });
   }
-  
+
   confirmUnsold() {
     const player = this.playerService.currentPlayer();
     if (!player) return;

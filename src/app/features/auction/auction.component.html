@@ -11,29 +11,34 @@
   <!-- Player Card -->
   <app-player-card [player]="playerService.currentPlayer()"></app-player-card>
 
-  <!-- Counters -->
-  <div class="stats">
-    <span>Total: {{ playerService.totalCount() }}</span>
-    <span>Sold: {{ playerService.soldCount() }}</span>
-    <span>Unsold: {{ playerService.unsoldCount() }}</span>
+  <!-- Buttons -->
+
+  <div class="actions">
+    <div class="left-actions">
+      <button class="custom-btn" pButton label="SOLD" severity="success" (click)="confirmSold()"></button>
+      <button class="custom-btn" pButton label="UNSOLD" severity="danger" (click)="confirmUnsold()"></button>
+    </div>
+
+    <div class="right-actions">
+      <button class="custom-btn" pButton label="Start Auction" (click)="playerService.getRandomPlayer()"></button>
+      <button class="custom-btn" pButton label="Start Round 2" [disabled]="!playerService.canStartRound2()"
+        (click)="playerService.startRound2()"></button>
+      <button class="custom-btn d-none" pButton label="Clear Auction" (click)="playerService.resetAuction()"></button>
+    </div>
+
   </div>
 
-  <!-- Buttons -->
-  <div class="actions">
-    <button pButton label="Start Auction" (click)="playerService.getRandomPlayer()"></button>
-
-    <button pButton label="SOLD" severity="success" (click)="confirmSold()"></button>
-
-    <button pButton label="UNSOLD" severity="danger" (click)="confirmUnsold()"></button>
-
-    <button pButton label="Start Round 2" [disabled]="!playerService.canStartRound2()"
-      (click)="playerService.startRound2()"></button>
+  <!-- Counters -->
+  <div class="stats mt-5 mb-4">
+    <span class="total-count">Total Players: {{ playerService.totalCount() }}</span>
+    <span class="sold-count">Sold Players: {{ playerService.soldCount() }}</span>
+    <span class="unsold-count">Unsold Players: {{ playerService.unsoldCount() }}</span>
   </div>
 
   <!-- TABLES -->
-  <div class="tables">
+  <div class="tables my-5">
 
-    <h3>Sold Players</h3>
+    <h3 class="fw-bold">Sold Players</h3>
     <p-table [value]="playerService.soldPlayers()">
       <ng-template pTemplate="header">
         <tr>
@@ -55,7 +60,7 @@
       </ng-template>
     </p-table>
 
-    <h3>Unsold Players</h3>
+    <h3 class="mt-5 fw-bold">Unsold Players</h3>
     <p-table [value]="playerService.unsoldPlayers()">
       <ng-template pTemplate="header">
         <tr>

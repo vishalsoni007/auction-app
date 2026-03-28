@@ -327,7 +327,7 @@
     "role": "Bowler",
     "batting": "Right Hand Batter",
     "bowling": "Right Arm Bow",
-    "photo": "assets/players/33.jpg"
+    "photo": "assets/players/33.jpeg"
   },
   {
     "id": 34,
@@ -657,7 +657,7 @@
     "role": "Batting All-rounder",
     "batting": "Right Hand Batter",
     "bowling": "Right Arm Bow",
-    "photo": "assets/players/66.jpg"
+    "photo": "assets/players/66.JPG"
   },
   {
     "id": 67,
